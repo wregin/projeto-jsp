@@ -17,7 +17,7 @@ Tela simples de bem vindo apenas com os botões para as telas de cadastro.
 
 ## Tela de cadastro de usuário
 
-A tela de cadastro de usuário, um detalhe aqui é que o campo de CEP faz uso da API do viacep.com.br no evento de onblur.
+Aqui um detalhe, o campo de CEP faz uso da API do viacep.com.br no evento de onblur, assim trazendo as informações da rua, bairro, cidade e estado.
 
 ![Tela de cadastro de usuário](https://github.com/wregin/projeto-jsp/blob/main/showroom/cad_usuario.png?raw=true)
 
