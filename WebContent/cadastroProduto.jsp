@@ -98,6 +98,8 @@
 				<th>Nome</th>
 				<th>Quantidade</th>
 				<th>Valor</th>
+				<th>Remover</th>
+				<th>Editar</th>
 
 			</tr>
 			<c:forEach items="${produtos}" var="produto">

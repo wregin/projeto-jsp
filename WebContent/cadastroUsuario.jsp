@@ -62,7 +62,7 @@
 					<tr>
 						<td>Nome:</td>
 						<td><input type="text" id="nome" name="nome" maxlength="15"
-							value="${user.nome }" placeholder="placeholder e tamanho máximo">
+							value="${user.nome }" placeholder="exemplo de placeholder">
 						<td>Cidade:</td>
 						<td><input type="text" id="cidade" name="cidade"
 							value="${user.cidade }">
