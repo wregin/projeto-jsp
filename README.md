@@ -1,7 +1,7 @@
 # Projeto Java/JSP/JDBC/SERVLET
 
 Projeto simples Java com JSP, JDBC e Servlets.
-Outras tecnologias como spring security, bootstrap, etc, não foram implantadas no projeto, a ideia é deixar projeto simples/inicial no Java tanto no back como no frontend, futuramente pode ser que faça uma v2 trazendo essas melhorias.
+Outras tecnologias como spring security, bootstrap, etc, não foram implantadas no projeto, a ideia é deixar projeto simples/inicial no Java tanto no back como no frontend.
 
 ## Tela de login
 
