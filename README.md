@@ -1,7 +1,7 @@
 # Projeto Java/JSP/JDBC/SERVLET
 
 Projeto simples Java com JSP, JDBC e Servlets.
-Outras tecnologias não foram implatadas no projeto como spring security, bootstrap, etc, a ideia é deixar projeto simples e inicial no Java tanto no back como no frontend, futuramente pode ser que faça uma v2 trazendo essas melhorias.
+Outras tecnologias como spring security, bootstrap, etc, não foram implantadas no projeto, a ideia é deixar projeto simples/inicial no Java tanto no back como no frontend, futuramente pode ser que faça uma v2 trazendo essas melhorias.
 
 ## Tela de login
 
@@ -11,13 +11,13 @@ A tela de login é bem simples, apenas com CSS básico.
 
 ## Tela de bem vindo
 
-Tela simples de bem vindo apenas com os botões para as telas de cadastro.
+Tela de bem vindo apenas com os botões para as telas de cadastros.
 
 ![Tela de login](https://github.com/wregin/projeto-jsp/blob/main/showroom/bem_vindo.png?raw=true)
 
 ## Tela de cadastro de usuário
 
-Aqui um detalhe, o campo de CEP faz uso da API do viacep.com.br no evento de onblur, assim trazendo as informações da rua, bairro, cidade e estado.
+Aqui um detalhe, o campo do CEP faz uso da API do viacep.com.br no evento onblur, assim trazendo as informações da rua, bairro, cidade e estado.
 
 ![Tela de cadastro de usuário](https://github.com/wregin/projeto-jsp/blob/main/showroom/cad_usuario.png?raw=true)
 
