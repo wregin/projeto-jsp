@@ -5,7 +5,7 @@ Outras tecnologias como spring security, bootstrap, etc, não foram implantadas 
 
 ## Tela de login
 
-A tela de login é simples, apenas com CSS básico.
+A tela de login é simples e um CSS básico.
 
 ![Tela de login](https://github.com/wregin/projeto-jsp/blob/main/showroom/login.png?raw=true)
 
